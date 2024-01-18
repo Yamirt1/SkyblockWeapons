@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SykblockWeapons:jar">
+    <output-path>$USER_HOME$/OneDrive/Escritorio/server/plugins</output-path>
+    <root id="archive" name="SykblockWeapons.jar">
+      <element id="module-output" name="SykblockWeapons" />
+    </root>
+  </artifact>
+</component>

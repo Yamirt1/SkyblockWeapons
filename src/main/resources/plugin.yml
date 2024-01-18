@@ -1,0 +1,15 @@
+main: org.yamirt11.SkyblockWeapons
+version: 1.2
+name: SkyblockWeapons
+author: Yamirt
+api-version: 1.8
+commands:
+  healingsword:
+    description: Da un una espada curativa
+    usage: /healingsword
+  aspect:
+    description: Da la Aspect of the End al jugador.
+    usage: /aspect
+  withersword:
+      description: Da una espada que es del wither.
+      usage: /withersword
